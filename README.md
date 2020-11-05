@@ -7,11 +7,12 @@ my own version of neofetch that includes sys info, spotify info, and ascii pictu
 ![alt text](https://github.com/x86Cisco/xfcfet/blob/main/prev3.png)
 
 # Requirments
-python3 (and /usr/include/python3.8 libs)
-cython
-gcc
-chafa
-playerctl
+  python3 (and /usr/include/python3.8 libs)
+  cython
+  gcc
+  chafa
+  playerctl
+
 
 # How to compile
 if you dont want to use the compiled version i uploaded in the repo
